@@ -3,7 +3,7 @@
 # Day 1: [Date]
 
 
-**Today's Challenge:** 
+### **Today's Challenge:** 
 1.  Write your full name and today's date in separate lines of code.
 2.  Copy this text below. See if you can do it with just the one print statement!
 
@@ -13,10 +13,7 @@
 4.  Add one more line to your output You can follow my progress at replit.com/@ and add in your Replit username. This will be a great way of maintaining accountability for yourself!
 5.  Run your program.    
 
-**Link to work:** 
--   https://github.com/IkennaEgwim/100-Days-of-Python/
-
-**Today's Progress:** 
+### **Today's Progress:** 
 - Today, I learnt about "print" statement and how to print several sentences using one print statement.
 
 
