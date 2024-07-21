@@ -1,4 +1,4 @@
-# Day 1: [Date]
+# Day 7: [Date]
 
 **Today's Challenge:**
 - 
