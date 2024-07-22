@@ -13,6 +13,5 @@ This documents my journey to master Python through consistent daily practice usi
 5.  Run your program.
 
 
-#   code solution
 
 
