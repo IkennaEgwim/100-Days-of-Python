@@ -28,5 +28,5 @@ Edge of reality
 
 
 **Today's Progress:**
-- 
+- Today, I applied my knowledge of input & variables to a task.
 
