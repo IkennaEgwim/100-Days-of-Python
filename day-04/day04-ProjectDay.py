@@ -1,0 +1,7 @@
+name = input("What is your name? ")
+worst_enemy_name = input("What is your worst enemy's name? ")
+superpower = input("What is your superpower? ")
+where_you_live = input("where do you live? ")
+your_favorite_food = input("What is your favorite food? ")
+print()
+print ("Hello", name,"! Your ability to", superpower, "will make sure you never have to look at", worst_enemy_name, "again. Go eat", your_favorite_food, "as you walk down the street of", where_you_live, "and use", superpower, "for good and not evil!")
